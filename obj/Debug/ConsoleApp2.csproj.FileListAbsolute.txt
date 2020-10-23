@@ -1,0 +1,10 @@
+E:\CodingHub\csharp\service\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\CodingHub\csharp\service\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\CodingHub\csharp\service\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\CodingHub\csharp\service\ConsoleApp2\bin\Debug\Topshelf.dll
+E:\CodingHub\csharp\service\ConsoleApp2\bin\Debug\Topshelf.xml
+E:\CodingHub\csharp\service\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\CodingHub\csharp\service\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\CodingHub\csharp\service\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+E:\CodingHub\csharp\service\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\CodingHub\csharp\service\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
